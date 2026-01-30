@@ -4,7 +4,7 @@ A modern, fully responsive weather application built with React that lets you ch
 
 ## 📸 Screenshot
 
-![Worldwide Weather App Screenshot](https://github.com/Johnzki25/Weatherapppersonal/assets/raw/main/docs/weather-app-demo.png)
+![Worldwide Weather App Screenshot](./docs/weathermapdemo.png)
 
 *Weather app showing real-time weather data for Ciutat Vella, Barcelona with interactive map view*
 
